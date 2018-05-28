@@ -1,0 +1,8 @@
+  2126  apt autoremove hugo
+ 2122  npm install hugo
+ 2123  npm install hugo-cli
+ 2125  npm install hugo-bin
+       npm bin hugo -v
+
+
+       
